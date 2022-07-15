@@ -1,0 +1,29 @@
+Nav{
+    background: #fff !important;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    border-radius: 0px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 0px;
+}
+nav a{
+    padding: 40px 12px 35px;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #a82d49 !important;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+nav  button{
+    background-color: #a82d49 !important;
+    color: #fff !important;
+    border: 3px solid #a82d49 !important;
+}
+nav  button:hover{
+    background-color: transparent !important;
+    color: #a82d49 !important;
+    outline: 0 !important;
+    text-decoration: none;
+    transition: .4s;
+}
