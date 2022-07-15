@@ -1,4 +1,4 @@
-
+import React, { Component} from 'react';
 import { Fragment } from 'react';
 import './App.css';
 import Header from './Components/Header/Header';
